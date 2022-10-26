@@ -62,14 +62,14 @@ using NOR:
 ## RTL
 ![](1.png)
 ## Timing Diagram:
-!()[2.png]
+![][2.png]
 ## Truth table:
 ![](3.png)
 ## USING NOR
 ## RTL
 ![](4.png)
 ## Timing Diagram:
-!()[5.png]
+![](5.png)
 ## Truth table:
 ![](6.png)
 ## Result:
