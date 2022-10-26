@@ -62,7 +62,7 @@ using NOR:
 ## RTL
 ![](1.png)
 ## Timing Diagram:
-![][2.png]
+![](2.png)
 ## Truth table:
 ![](3.png)
 ## USING NOR
