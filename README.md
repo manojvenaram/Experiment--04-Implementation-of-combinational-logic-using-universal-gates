@@ -29,16 +29,11 @@ F=(((C.B'.A)+(D.C'.A)+(C.B'.A))')'
 ## Logic Diagram
 ## Procedure
 1. Create a project with required entities.
-
 2. Create a module along with respective file name.
-
 3. Run the respective programs for the given boolean equations.
-
 4. Run the module and get the respective RTL outputs.
-
 5. Create university program(VWF) for getting timing diagram.
-
-6.Give the respective inputs for timing diagram and obtain the results.
+6. Give the respective inputs for timing diagram and obtain the results.
 ## Program:
 ```
 /*
